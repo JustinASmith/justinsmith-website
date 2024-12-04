@@ -1,0 +1,6 @@
+.hugo_build.lock
+.DS_Store
+resources/_gen
+yarn-error.log
+node_modules
+public/
